@@ -2,4 +2,4 @@
 
 🔧 **Linguagens e Ferramentas:**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilva7)<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaSilva7)
